@@ -1,10 +1,4 @@
-<style>
-  h1 {
-    text-align: center;
-  }
-</style>
-
-# GCP GKE Demo
+<h1 style="text-align: center;">GCP GKE Demo</h1>
 
 ## Contents
 
